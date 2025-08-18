@@ -36,7 +36,7 @@ Results-driven **Financial & BI Analyst** Currently pursuing advanced research i
 
 **Tech Stack:** `R` `MySQL` `Power BI` `Customer Segmentation`
 
-### ☕ [Monday Coffee: Market Expansion Strategy](https://github.com/jeffery-akakpo/monday-coffee-expansion)
+### ☕ [Monday Coffee: Market Expansion Strategy](https://github.com/JefferyAkaps/Monday-Coffee-Market-Expansion-Strategy)
 **Strategic market analysis for coffee retail expansion across India**
 - Evaluated $306K revenue potential using advanced SQL analytics
 - Recommended top 3 cities with average $224 profit per customer
