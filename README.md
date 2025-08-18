@@ -1,7 +1,7 @@
 # Hi there, I'm Jeffery Akakpo! 👋
 
 ## 🚀 About Me
-Results-driven **Financial Analyst & Data Scientist** with dual Master's degrees in Economics and Business Analytics. Currently pursuing advanced research in macroeconomic policy analysis at Yamaguchi University, Japan, while building data-driven solutions that transform complex datasets into strategic business insights.
+Results-driven **Financial & BI Analyst** Currently pursuing advanced research in macroeconomic policy analysis at Yamaguchi University, Japan, while building data-driven solutions that transform complex datasets into strategic business insights.
 
 - 🔬 **Current Focus:** Economic modeling, financial planning and analysis, and business intelligence
 - 🌱 **Learning:** Advanced econometric modeling, machine learning applications in finance
@@ -69,8 +69,7 @@ Results-driven **Financial Analyst & Data Scientist** with dual Master's degrees
 ## 💭 Fun Facts
 - 🌍 Lived and studied in 3 countries across 2 continents
 - 📊 Passionate about turning data into stories that drive business decisions
-- ☕ Coffee enthusiast (hence the Monday Coffee project!)
-- 🗾 Currently learning Japanese and Korean
+- 🗾 Currently learning Japanese
 - 🎯 Believer in data-driven decision making for sustainable business growth
 
 ---
