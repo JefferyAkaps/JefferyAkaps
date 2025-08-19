@@ -28,7 +28,7 @@ Results-driven **Financial & BI Analyst** Currently pursuing advanced research i
 
 ## 📊 Featured Projects
 
-### 🛒 [Customer Behavior Analytics: Retail Data Analysis](https://github.com/jeffery-akakpo/customer-analytics)
+### 🛒 [Customer Behavior Analytics: Retail Data Analysis](https://github.com/JefferyAkaps/Customer-Behavior-Analytics-Retail-Data-Analysis/tree/main)
 **Analyzed 540K+ transactions worth $8.9M using R, MySQL, and Power BI**
 - Built ETL pipeline processing 397,884 clean transactions across 37 countries
 - Identified that 2% VIP customers generated 35% of total revenue
