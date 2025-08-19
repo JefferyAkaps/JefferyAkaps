@@ -34,7 +34,7 @@ Results-driven **Financial & BI Analyst** Currently pursuing advanced research i
 - Identified that 2% VIP customers generated 35% of total revenue
 - Developed customer segmentation strategies for targeted marketing
 
-**Tech Stack:** `R` `MySQL` `Power BI` `Customer Segmentation`
+**Tech Stack:** `R` `MySQL` `Power BI` `Customer Segmentation` `Excel`
 
 ### ☕ [Monday Coffee: Market Expansion Strategy](https://github.com/JefferyAkaps/Monday-Coffee-Market-Expansion-Strategy)
 **Strategic market analysis for coffee retail expansion across India**
@@ -42,23 +42,8 @@ Results-driven **Financial & BI Analyst** Currently pursuing advanced research i
 - Recommended top 3 cities with average $224 profit per customer
 - Built comprehensive market sizing and profitability models
 
-**Tech Stack:** `SQL` `Market Analysis` `Business Intelligence` `Strategic Planning`
+**Tech Stack:** `SQL` `Market Analysis` `Business Intelligence` `Strategic Planning` `Excel`
 
-
-
-
-## 🎓 Education & Certifications
-
-**📚 Academic Background**
-- **MS Economics** - Yamaguchi University, Japan (2023-Present)
-- **MS Business Analytics** - Manipal Institute of Management, India (2022-2024)
-- **BBA** - University of Professional Studies, Ghana (2012-2016)
-
-**🏆 Key Achievements**
-- 📊 Analyzed $8.9M in retail transaction data with 35% revenue concentration insights
-- 📈 Led teams achieving 25% operational efficiency improvements
-- 🌏 International experience across Ghana, India, and Japan
-- 💡 Currently researching macroeconomic policy impacts on small business growth
 
 ## 🌐 Let's Connect!
 
